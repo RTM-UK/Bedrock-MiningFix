@@ -1,0 +1,5 @@
+enabled: true
+required-efficiency-level: 7
+required-haste-amplifier: 1
+applied-mining-fatigue-amplifier: 0
+check-interval-ticks: 5
