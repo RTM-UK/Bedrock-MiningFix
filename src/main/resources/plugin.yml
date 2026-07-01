@@ -1,0 +1,7 @@
+name: BedrockMiningFix
+version: 1.0.0
+main: com.RTM.bedrockminingfix.BedrockMiningFixPlugin
+api-version: '1.21'
+authors: RTM
+description: Applies mining fatigue to Bedrock players using Efficiency 7 pickaxes and Haste II.
+depend: [floodgate]
